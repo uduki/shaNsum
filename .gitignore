@@ -1,0 +1,7 @@
+.*.swp
+*.o
+*.a
+*.hi
+main
+core
+shaNsum
